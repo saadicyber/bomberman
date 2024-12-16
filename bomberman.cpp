@@ -22,7 +22,7 @@ const string green = "\033[32m";         // Green color
 const string yellow = "\033[33m";        // Yellow color
 const string cyan = "\033[36m";          // Cyan color
 const string magneta = "\033[35m";       // Magneta
-const string blue = "\033[94m";
+const string blue = "\033[94m";          // Blue
 
 void playerBombed();
 
